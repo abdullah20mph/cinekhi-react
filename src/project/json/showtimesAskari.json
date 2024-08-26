@@ -1,0 +1,287 @@
+{
+    "cinema": "Nueplex Askari",
+    "movies": [
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "12:15 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "02:55 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "05:35 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "08:15 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "10:55 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine (Urdu Dubbed)",
+            "showtimes": [
+                "01:35 AM*"
+            ]
+        },
+        {
+            "title": "The Glassworker (Pakistani)",
+            "showtimes": [
+                "12:55 PM"
+            ]
+        },
+        {
+            "title": "Lampir",
+            "showtimes": [
+                "03:05 PM"
+            ]
+        },
+        {
+            "title": "The Glassworker (Urdu) (Pakistani)",
+            "showtimes": [
+                "05:10 PM"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "07:20 PM"
+            ]
+        },
+        {
+            "title": "Lampir",
+            "showtimes": [
+                "09:25 PM"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "11:30 PM"
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "01:05 PM"
+            ]
+        },
+        {
+            "title": "Mastaani (Pakistani)",
+            "showtimes": [
+                "03:25 PM"
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "06:25 PM"
+            ]
+        },
+        {
+            "title": "Mastaani (Pakistani)",
+            "showtimes": [
+                "08:45 PM"
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "11:45 PM"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "02:05 AM*"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "12:30 PM"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "02:40 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "04:45 PM"
+            ]
+        },
+        {
+            "title": "Temurun",
+            "showtimes": [
+                "07:25 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine (Urdu Dubbed)",
+            "showtimes": [
+                "09:20 PM"
+            ]
+        },
+        {
+            "title": "Mastaani (Pakistani)",
+            "showtimes": [
+                "12:05 AM*"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "12:35 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "03:15 PM"
+            ]
+        },
+        {
+            "title": "Siccin 7 (English Subtitled)",
+            "showtimes": [
+                "05:55 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "08:00 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "10:40 PM"
+            ]
+        },
+        {
+            "title": "Temurun",
+            "showtimes": [
+                "01:20 AM*"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "01:45 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "04:25 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "07:05 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "09:45 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "12:25 AM*"
+            ]
+        },
+        {
+            "title": "Alien: Romulus",
+            "showtimes": [
+                "12:15 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine (Urdu Dubbed)",
+            "showtimes": [
+                "02:40 PM"
+            ]
+        },
+        {
+            "title": "Despicable Me 4",
+            "showtimes": [
+                "05:15 PM"
+            ]
+        },
+        {
+            "title": "Alien: Romulus",
+            "showtimes": [
+                "07:15 PM"
+            ]
+        },
+        {
+            "title": "Alien: Romulus (Urdu Dubbed)",
+            "showtimes": [
+                "09:40 PM"
+            ]
+        },
+        {
+            "title": "Alien: Romulus",
+            "showtimes": [
+                "12:05 AM*"
+            ]
+        },
+        {
+            "title": "Twisters",
+            "showtimes": [
+                "12:25 PM"
+            ]
+        },
+        {
+            "title": "Inside Out 2",
+            "showtimes": [
+                "02:50 PM"
+            ]
+        },
+        {
+            "title": "UmroAyyar - A New Beginning (Pakistani)",
+            "showtimes": [
+                "04:55 PM"
+            ]
+        },
+        {
+            "title": "The Glassworker (Pakistani)",
+            "showtimes": [
+                "07:35 PM"
+            ]
+        },
+        {
+            "title": "Mr Shudai (Punjabi)",
+            "showtimes": [
+                "09:45 PM"
+            ]
+        },
+        {
+            "title": "Na Baligh Afraad (Pakistani)",
+            "showtimes": [
+                "12:55 AM*"
+            ]
+        }
+    ]
+}

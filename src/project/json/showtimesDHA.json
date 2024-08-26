@@ -1,0 +1,173 @@
+{
+    "cinema_name": "Nueplex DHA",
+    "movies": [
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "12:15 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "02:55 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "05:35 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "08:15 PM"
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "10:55 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "01:15 AM*"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "12:20 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "05:45 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "08:25 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "11:05 PM"
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "12:05 PM"
+            ]
+        },
+        {
+            "title": "Mastaani (Pakistani)",
+            "showtimes": [
+                "02:20 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "05:20 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "08:00 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "10:40 PM"
+            ]
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "01:20 AM*"
+            ]
+        },
+        {
+            "title": "Twisters",
+            "showtimes": [
+                "12:45 PM"
+            ]
+        },
+        {
+            "title": "Despicable Me 4",
+            "showtimes": [
+                "03:10 PM"
+            ]
+        },
+        {
+            "title": "The Glassworker (Pakistani)",
+            "showtimes": [
+                "05:10 PM"
+            ]
+        },
+        {
+            "title": "Alien: Romulus",
+            "showtimes": [
+                "07:20 PM"
+            ]
+        },
+        {
+            "title": "Mastaani (Pakistani)",
+            "showtimes": [
+                "09:45 PM"
+            ]
+        },
+        {
+            "title": "Lampir",
+            "showtimes": [
+                "12:45 AM*"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "12:05 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "02:40 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "05:15 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "07:50 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "10:25 PM"
+            ]
+        },
+        {
+            "title": "Mr Shudai (Punjabi)",
+            "showtimes": [
+                "01:00 AM*"
+            ]
+        }
+    ]
+}

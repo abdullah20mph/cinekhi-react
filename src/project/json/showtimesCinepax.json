@@ -1,0 +1,192 @@
+{
+    "cinema": "Cinepax Ocean Mall",
+    "movies": [
+        {
+            "title": "Deadpool & Wolverine (3D Eng)",
+            "showtimes": [
+                "10:30 PM",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Inside Out 2 (3D ENG)",
+            "showtimes": [
+                "01:30 PM"
+            ]
+        },
+        {
+            "title": "It Ends With Us",
+            "showtimes": [
+                "10:00 PM",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Jung Kook: I Am Still",
+            "showtimes": [
+                "03:00 PM",
+                "05:15 PM",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Mastaani",
+            "showtimes": [
+                "01:45 PM",
+                "06:45 PM",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Siccin 7 (Turkish English Subtitles)",
+            "showtimes": [
+                "08:00 PM",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "Temurun (Indonesia English Subtitles)",
+            "showtimes": [
+                "02:00 PM",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "The Crow",
+            "showtimes": [
+                "10:15 PM",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "title": "The Glassworker (Urdu)",
+            "showtimes": [
+                "04:15 PM",
+                ""
+            ]
+        },
+        {
+            "title": "AfrAId",
+            "showtimes": []
+        },
+        {
+            "title": "Bagman",
+            "showtimes": []
+        },
+        {
+            "title": "Battle Of The Kings: Rostam & Sohrab",
+            "showtimes": []
+        },
+        {
+            "title": "Beetlejuice Beetlejuice",
+            "showtimes": []
+        },
+        {
+            "title": "Captain America: Brave New World",
+            "showtimes": []
+        },
+        {
+            "title": "Detective Conan Vs. Kid The Phantom Thief",
+            "showtimes": []
+        },
+        {
+            "title": "Flight Risk",
+            "showtimes": []
+        },
+        {
+            "title": "Gladiator II",
+            "showtimes": []
+        },
+        {
+            "title": "Joker: Folie \u00c0 Deux",
+            "showtimes": []
+        },
+        {
+            "title": "Kraven The Hunter",
+            "showtimes": []
+        },
+        {
+            "title": "Manju Maria",
+            "showtimes": []
+        },
+        {
+            "title": "Menjelang Ajal (Indonesia)",
+            "showtimes": []
+        },
+        {
+            "title": "Mission: Impossible - Dead Reckoning Part Two",
+            "showtimes": []
+        },
+        {
+            "title": "Moana 2",
+            "showtimes": []
+        },
+        {
+            "title": "Mufasa: The Lion King",
+            "showtimes": []
+        },
+        {
+            "title": "Red One",
+            "showtimes": []
+        },
+        {
+            "title": "Smile 2",
+            "showtimes": []
+        },
+        {
+            "title": "Sonic The Hedgehog 3",
+            "showtimes": []
+        },
+        {
+            "title": "Speak No Evil",
+            "showtimes": []
+        },
+        {
+            "title": "Transformers One",
+            "showtimes": []
+        },
+        {
+            "title": "Venom: The Last Dance",
+            "showtimes": []
+        }
+    ]
+}

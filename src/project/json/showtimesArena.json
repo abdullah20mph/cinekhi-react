@@ -1,0 +1,17 @@
+{
+    "cinema_name": "Arena",
+    "movies": [
+        {
+            "title": "It Ends With Us",
+            "showtimes": "03:30 PM\n08:30 PM"
+        },
+        {
+            "title": "Deadpool & Wolverine - 2D Urdu",
+            "showtimes": "01:30 PM\n01:15 AM"
+        },
+        {
+            "title": "Alien: Romulus - 2D English",
+            "showtimes": "11:00 AM\n06:00 PM\n11:00 PM"
+        }
+    ]
+}

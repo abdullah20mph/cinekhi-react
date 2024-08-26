@@ -1,0 +1,30 @@
+{
+    "cinema": "Bahria Town",
+    "movies": [
+        {
+            "title": "Deadpool & Wolverine",
+            "showtimes": [
+                "05:45 pm",
+                "12:15 am"
+            ]
+        },
+        {
+            "title": "The Glassworker",
+            "showtimes": [
+                "08:15 pm"
+            ]
+        },
+        {
+            "title": "Siccin 7",
+            "showtimes": [
+                "03:45 pm"
+            ]
+        },
+        {
+            "title": "Vina: Before 7 Days",
+            "showtimes": [
+                "10:15 pm"
+            ]
+        }
+    ]
+}
